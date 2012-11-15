@@ -1,6 +1,10 @@
 xml_utils
 =========
 
+The library provides xml processing in functional way.
+
+##Example
+
 Suppose we have xml document
 
 ```xml
